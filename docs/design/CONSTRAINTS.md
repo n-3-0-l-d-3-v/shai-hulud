@@ -6,7 +6,7 @@ A standard, ordinary-looking data file (PDF/SVG/font/etc.) becomes the container
 
 ## What it forces
 
-Polyglot file construction, a tiny trusted loader, and running impossible-machine's VM from inside a non-executable substrate.
+Polyglot file construction, a tiny trusted loader, and running mentat's VM from inside a non-executable substrate.
 
 ## Research question
 
